@@ -151,3 +151,5 @@ Existen diferentes maneras de generar un sitio web con el documento, pero el má
 ```{r githubpages, echo=FALSE, fig.cap="Bookdown en Github Pages", fig.align = 'center', out.width = '60%'}
 knitr::include_graphics(path = "images/githubpages.png")
 ```
+
+Luego "Save" y se actualiza la página. Al bajar nuevamente a la sección de Github Pages debería aparecer "Your site is ready to be published at [dirección web]". Esa dirección es donde se puede acceder al sitio una vez que pasen algunos minutos.
