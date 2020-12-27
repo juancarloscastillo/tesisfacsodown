@@ -1,0 +1,10 @@
+book_filename: "tesis"
+repo: https://github.com/juancarloscastillo/reporte-paces
+language:
+  label:
+    fig: 'Figura '
+    tab: 'Tabla '
+#  ui:
+#    chapter_name: " "
+delete_merged_file: true
+output_dir: "docs"

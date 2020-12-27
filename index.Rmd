@@ -1,0 +1,29 @@
+---
+title: 'Título completo de la tesis o seminario de grado'
+subtitle: "Tesis para optar al grado de ...."
+author: "Mi nombre"
+date: "Fecha" # o para fecha actual: "`r Sys.Date()`"
+institution: "Universidad de Chile"
+degree: "Seminario / Memoria / Tesis de Grado - Carrera de Sociología"
+advisor: "Profesor/a guía: mi supervisor/a"
+bibliography: [tesis.bib]
+biblio-style: apalike
+link-citations: yes
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+fontsize: 14pt
+lof: True
+lot: True
+
+---
+
+
+# Resumen {-}
+
+Resumen  aquí
+
+
+# Agradecimientos {-}
+
+Agradecimientos aquí.

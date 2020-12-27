@@ -1,0 +1,20 @@
+
+```{r echo=FALSE}
+knitr::opts_chunk$set(out.width="80%", fig.pos = "!ht", out.extra = "")
+```
+
+# Antecedentes conceptuales y empíricos
+
+## (concepto principal - explanandum - objeto de estudio)
+
+...
+
+## Factores asociados a objeto de estudio 
+
+### Factor 1
+
+Al final de esta sección, enunciar la hipótesis correspondiente
+
+### Factor N
+
+Al final de esta sección, enunciar la hipótesis correspondiente

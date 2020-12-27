@@ -1,0 +1,22 @@
+bookdown::gitbook:
+  css: style.css
+  split_by: section
+  config:
+    toc:
+      before: |
+        <li><a href="./">tesisfacsodown</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado con bookdown</a></li>
+    edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
+    sharing:
+      github: yes
+      facebook: no
+      twitter: no
+    download: "pdf"
+
+bookdown::pdf_book:
+  includes:
+  template: templates/template_thesisdown.tex
+  latex_engine: pdflatex
+  citation_package: natbib
+  keep_tex: yes
